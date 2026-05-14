@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nour</h1>
-<h3 align="center">A passionate fullstack developer from Egypt</h3>
+<h1 align="center">Hi , I'm Nour Mohamed</h1>
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Java and RESTful API**
+-  I’m currently learning **Java and RESTful API**
 
-- 📫 How to reach me **nournabarawi20@gmail.com**
+-  How to reach me **nournabarawi20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
